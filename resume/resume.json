@@ -113,9 +113,9 @@
   "publications": [
     {
       "name": "An Approach to Geometric Modelling Using Genetic Programming",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-15-8366-7_13",
       "publisher": "Springer",
       "releaseDate": "2021-02-04",
-      "website": "https://link.springer.com/chapter/10.1007/978-981-15-8366-7_13",
       "summary": "In this work we ’derived’ the famous Pythagorean theorem from the measurements of the sides of right-angled triangles with machine learning. In classical Euclidean geometry, this result is proved with rigorous geometrical argument but we have followed a data driven approach and got the same result without entering a single step in the domain of geometry. \nWe used symbolic regression with Genetic Programming to reach the model."
     }
   ],
