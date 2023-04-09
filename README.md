@@ -6,6 +6,7 @@
 Currently redirects to `/resume`
 
 ## Resume page
-Generates resume from [`json` file](./resume/resume.json)
+Generates resume from [`yaml` file](./resume/resume.yaml)
 
-It uses [JSON Resume](https://jsonresume.org/) template to create resume and publish to github page.
+It uses [JSON Resume](https://jsonresume.org/) template to create resume and publish to github page.  
+Schema defined in here [schema.json](https://github.com/jsonresume/resume-schema/blob/master/schema.json)

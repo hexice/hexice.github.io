@@ -4,7 +4,7 @@ basics:
   picture: https://media.licdn.com/dms/image/D5603AQHA-9nLgbB8-A/profile-displayphoto-shrink_800_800/0/1678308731597?e=1683763200&v=beta&t=CNctu8Ngbj3BXyAGkSWSHtFq8mp5MFTOViS2fGgn-BI
   email: snigdhajyotig@gmail.com
   phone: "+91 8001660020"
-  website: ''
+  url: ''
   summary: |-
     As a Software Developer with 4 years of experience, I have a passion for using technology to solve complex problems and improve the user experience.
     I am dedicated to staying up-to-date with the latest industry trends and advancements, and regularly contribute to open source projects as a way to give back to the tech community.
@@ -26,11 +26,13 @@ basics:
       username: DiscoToma2
       url: https://twitter.com/DiscoToma2
     - network: stackoverflow
-      username: snigdhajyoti
+      username: 7857701/snigdhajyoti
       url: https://stackoverflow.com/users/7857701/snigdhajyoti
 work:
   - position: Senior Consultant
     name: "/thoughtworks"
+    location: Gurugram
+    description: A global technology consultancy company
     url: https://thoughtworks.com
     startDate: '2022-09-01'
     summary: |-
@@ -48,6 +50,8 @@ work:
       - "**Platform:** Docker"
   - position: Consultant
     name: "/thoughtworks"
+    location: Gurugram
+    description: A global technology consultancy company
     url: https://thoughtworks.com
     startDate: '2020-07-01'
     summary: |-
@@ -73,6 +77,8 @@ work:
     endDate: '2022-08-01'
   - position: Graduate Consultant
     name: "/thoughtworks"
+    location: Gurugram
+    description: A global technology consultancy company
     url: https://thoughtworks.com
     startDate: '2019-06-01'
     summary: |-
@@ -89,20 +95,27 @@ work:
     endDate: '2020-06-01'
   - position: Internship Trainee
     name: "/thoughtworks"
+    location: Bengaluru
+    description: A global technology consultancy company
     url: https://thoughtworks.com
     startDate: '2019-01-01'
     summary: |-
       Developed a mock e-commerce service with AGILE methodology.
     highlights: []
     endDate: '2019-04-01'
+volunteer: []
 education:
   - institution: Netaji Subhash Engineering College
+    url: https://nsec.ac.in
     area: Electronics and Communication Engineering
     studyType: Bachelor of Technology (B.Tech.)
     startDate: '2015-07-01'
-    gpa: '7.98'
+    gpa: '7.98' # This is only for elegant theme 'score' is the actual one defined in json schema
+    score: '7.98'
     courses: []
     endDate: '2019-06-01'
+awards: []
+certificates: []
 publications:
   - name: An Approach to Geometric Modelling Using Genetic Programming
     url: https://link.springer.com/chapter/10.1007/978-981-15-8366-7_13
@@ -191,4 +204,10 @@ languages:
     fluency: Native or bilingual proficiency
   - language: Bengali
     fluency: Native or bilingual proficiency
+interests: []
+references: []
 projects: []
+meta:
+  canonical: https://snigdhasjg.github.io/resume/
+  version: 1.1.0
+  lastModified: 2023-04-09T13:43:00
