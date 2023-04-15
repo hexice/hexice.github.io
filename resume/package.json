@@ -2,7 +2,7 @@
   "name": "resume-builder",
   "version": "1.1.0",
   "scripts": {
-    "clean": "rm -r ../gh-pages/resume || true",
+    "clean": "(rm -r ../gh-pages/resume || true) && (rm -r ./build || true) && (rm resume.json || true)",
     "setup": "mkdir -p ../gh-pages/resume",
     "export": "js-yaml resume.yaml > resume.json && resume export -t elegant -f html ../gh-pages/resume/index.html",
     "serve": "js-yaml resume.yaml > resume.json && resume serve -t elegant -d build"
