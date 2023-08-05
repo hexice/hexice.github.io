@@ -26,174 +26,60 @@ basics:
       username: hex_ice
       url: https://twitter.com/hex_ice
 work:
-  - position: Senior Consultant
-    name: "/thoughtworks"
-    location: Gurugram
-    description: A global technology consultancy company
-    url: https://thoughtworks.com
-    startDate: '2022-09-01'
+  - position: System Engineer
+    name: "Infosys"
+    location: Bangalore
+    description: Indian multinational information technology company
+    url: https://Infosys.com
+    startDate: '2022-02-28'
     summary: |-
-      **Ecommerce platform**
-      Building RESTful domain APIs for e-commerce platform. To provide a single data source for data used across the ecommerce, used event based system to sync data from multiple sources. 
-      
-      Major involvement on setting up data pipeline, building spring starter common library and performance testing & tuning. 
-      In a team of 14, primary responsibility is to maintain code quality & clean code practices. Also to drive estimation, and help in analyzing architectural decision.
+      Experienced in Vector ticketing tool, adept at guiding customers in setting up MX, SPF, DKIM & DMARC records.
+      Skilled in email routing, compliance, spam, spoofing, and phishing troubleshooting.
+      Proficient in user and Google group management, whitelisting, sender lists, and end-user settings.
+      Well-versed in configuring email services through IMAP/POP and SMTP servers.
+      Team management expertise, providing effective customer issue resolution.
     highlights:
-      - "**Tech Stack:** Java 17, SpringBoot, Kafka, ksqlDB"
-      - "**Build Tool:** Gradle"
-      - "**CI/CD:** Jenkins, GitHub Actions"
-      - "**Cloud:** AWS (EKS, MSK, Terraform)"
-      - "**Testing Tool:** JUnit, TestNG, Gatling"
-      - "**Platform:** Docker"
-  - position: Consultant
-    name: "/thoughtworks"
-    location: Gurugram
-    description: A global technology consultancy company
-    url: https://thoughtworks.com
-    startDate: '2020-07-01'
-    summary: |-
-      **Location Finder**
-      Built and migrated 2 legacy microservices for geolocation-based search for stores and dealers that provide parts or services within a geographical boundary, specified by a geo-JSON while also supporting a range of other filters.
-      **Geocoding**
-      Developed RESTful APIs for a downstream microservice for geocoding information based on user address, IP address, or coordinates.
-      **Proxy API**
-      Helped creating a micro-service that works as a proxy to another 3rd party service in conjunction with authorization, localization, multilingual.
-      
-      Enhanced geo-spatial query performance, ultimately leading to implementing a read replica auto-scaling of RDS drastically improved TPS from 48 to 126. 
-      Developed custom metrics to AWS CloudWatch and created multiple (more than 10) metrics dashboards for production trends. 
-      Set up CI/CD pipeline in Azure DevOps and introduced a relevant set of performance and integration tests to strengthen the quality, along with improving pipeline run time by 5 mins. 
-      Analyzed root cause of production issues, summarized and articulated in technical meetings. 
-      In a team of 8, primary responsibility is to co-create solution with the help of extreme programming & agile methodology. Onboarded and mentored 2 new project members around the domain, technical knowledge, and agile methodologies.
-    highlights:
-      - "**Tech Stack:** Java 11, SpringBoot, Jooq, Postgres with Postgis"
-      - "**Build Tool:** Gradle"
-      - "**CI/CD:** Azure Pipeline"
-      - "**Cloud:** AWS (ECS, APIGateway, Cloudformation)"
-      - "**Testing Tool:** JUnit, JMeter, Karate"
-      - "**Platform:** Docker"
-    endDate: '2022-08-01'
-  - position: Graduate Consultant
-    name: "/thoughtworks"
-    location: Gurugram
-    description: A global technology consultancy company
-    url: https://thoughtworks.com
-    startDate: '2019-06-01'
-    summary: |-
-      **Dealer opportunity & lead analyzer**
-      Migrated on-premise (cloudera) hadoop server to AWS. Along with that we had to implement changes, add new features to existing data pipeline. 
-      
-      In a team of 5, primary responsibility was to take ML model & put it in our data pipeline. Also ensuring that input data is clean.
-    highlights:
-      - "**Tech Stack:** Java 8, Python 3, Spark, Sqoop, Hive, Oozie, Hadoop "
-      - "**Build Tool:** Gradle, Maven"
-      - "**CI/CD:** Azure Pipeline, Jenkins"
-      - "**Cloud:** AWS (EMR, S3, CloudFormation, Lambda)"
-      - "**Testing Tool:** JUnit, Pytest"
-    endDate: '2020-06-01'
-  - position: Internship Trainee
-    name: "/thoughtworks"
-    location: Bengaluru
-    description: A global technology consultancy company
-    url: https://thoughtworks.com
-    startDate: '2019-01-01'
-    summary: |-
-      Developed a mock e-commerce service with AGILE methodology.
-    highlights: []
-    endDate: '2019-04-01'
-volunteer: []
+      - Salesforce
+      - Google workspace
+      - Google admin console
+      - DNS
+      - IMAP/POP and SMTP
 education:
   - institution: Netaji Subhash Engineering College
     url: https://nsec.ac.in
     area: Electronics and Communication Engineering
     studyType: Bachelor of Technology (B.Tech.)
     startDate: '2015-07-01'
-    gpa: '7.98' # This is only for elegant theme 'score' is the actual one defined in json schema
-    score: '7.98'
+    gpa: '7.31' # This is only for elegant theme 'score' is the actual one defined in json schema
     courses: []
     endDate: '2019-06-01'
-awards: []
 certificates: []
-publications:
-  - name: An Approach to Geometric Modelling Using Genetic Programming
-    url: https://link.springer.com/chapter/10.1007/978-981-15-8366-7_13
-    publisher: Springer
-    releaseDate: '2021-02-04'
-    summary: |-
-      In this work we ’derived’ the famous Pythagorean theorem from the measurements of the sides of right-angled triangles with machine learning. In classical Euclidean geometry, this result is proved with rigorous geometrical argument but we have followed a data driven approach and got the same result without entering a single step in the domain of geometry. 
-      We used symbolic regression with Genetic Programming to reach the model.
 skills:
-  - name: Java
+  - name: 'C#'
     level: ''
     keywords: []
-  - name: Spring Boot
+  - name: 'ASP .NET'
     level: ''
     keywords:
-      - Security
-      - Cloud
-      - Data JPA
-      - Gradle
-      - Logback
-  - name: Amazon Web Services (AWS)
-    level: ''
-    keywords:
-      - EKS
-      - ECS
-      - S3
-      - IAM
-      - VPC
-      - MSK
-      - RDS
+      - Core
+      - Entity Framework
   - name: DevOps Tools/Platforms
     level: ''
     keywords:
       - CI/CD
       - GitHub Actions
-      - Terraform
       - Azure DevOps
   - name: Microservices
     level: ''
     keywords:
       - RESTful web services
       - Event driven system
-  - name: Git
-    level: ''
-    keywords: []
-  - name: Docker
-    level: ''
-    keywords:
-      - CI/CD with Docker
-      - Dockerfile
-      - Docker Compose
-      - Microservices and Docker
-  - name: Python
-    level: ''
-    keywords: []
-  - name: Kafka
-    level: ''
-    keywords:
-      - Kafka Streams
-      - ksqlDB
-      - Schema Registry
-      - Kafka Connect
-      - Avro
-  - name: PostgreSQL
+  - name: MS SQL
     level: ''
     keywords: []
   - name: Linux
     level: ''
     keywords: []
-  - name: Apache Spark
-    level: ''
-    keywords:
-      - Spark SQL
-      - Scala API
-  - name: Testing
-    level: ''
-    keywords:
-      - JUnit
-      - Karate
-      - JMeter
-      - TestNG
 languages:
   - language: English
     fluency: Professional working proficiency
@@ -205,6 +91,6 @@ interests: []
 references: []
 projects: []
 meta:
-  canonical: https://snigdhasjg.github.io/resume/
+  canonical: https://hexice.github.io/resume/
   version: 1.1.0
   lastModified: 2023-04-09T13:43:00
