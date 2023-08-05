@@ -63,6 +63,12 @@ skills:
     keywords:
       - Core
       - Entity Framework
+  - name: 'Web stack'  
+    level: ''
+    keywords:
+      - HTML
+      - CSS
+      - JavaScript
   - name: DevOps Tools/Platforms
     level: ''
     keywords:
