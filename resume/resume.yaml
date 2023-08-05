@@ -1,14 +1,14 @@
 basics:
-  name: Snigdhajyoti Ghosh
-  label: Developer | Senior Consultant
-  picture: https://snigdhasjg.github.io/resume/images/profile.jpeg
-  email: snigdha.jyoti.ghosh@gmail.com
-  phone: "+91 8001660020"
+  name: Sahidur Rahaman
+  label: Software Developer
+  picture: https://hexice.github.io/resume/images/profile.jpeg
+  email: sahisk2017@gmail.com
+  phone: "+91 9064123862"
   url: ''
   summary: |-
-    As a Software Developer with 4 years of experience, I have a passion for using technology to solve complex problems and improve the user experience.
-    I am dedicated to staying up-to-date with the latest industry trends and advancements, and regularly contribute to open source projects as a way to give back to the tech community.
-    I thrive in fast-paced environments and enjoy working collaboratively with cross-functional teams to deliver high-quality products that meet and exceed customer expectations.
+    Motivated  software developer with 1.5+ year of experience and a passion for driving results.
+    Proven ability for problem solving and a commitment to continuous learning and growth.
+    Seeking opportunities to take on new challenges and make a meaningful impact.
   location:
     address: ''
     postalCode: ''
@@ -17,17 +17,14 @@ basics:
     region: ''
   profiles:
     - network: GitHub
-      username: snigdhasjg
-      url: https://github.com/snigdhasjg
+      username: hexice
+      url: https://github.com/hexice
     - network: LinkedIn
-      username: snigdhajyoti
-      url: https://linkedin.com/in/snigdhajyoti
+      username: sahisk
+      url: https://www.linkedin.com/in/sahisk/
     - network: Twitter
-      username: DiscoToma2
-      url: https://twitter.com/DiscoToma2
-    - network: stackoverflow
-      username: 7857701/snigdhajyoti
-      url: https://stackoverflow.com/users/7857701/snigdhajyoti
+      username: hex_ice
+      url: https://twitter.com/hex_ice
 work:
   - position: Senior Consultant
     name: "/thoughtworks"
