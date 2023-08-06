@@ -51,10 +51,10 @@ education:
     courses: []
     endDate: '2019-06-01'
 certificates: 
-  -Infosys Certified Database and SQL Professional
-  -Infosys Certified Java SE8 Developer
-  -Data Structures in JAVA(https://certificate.codingninjas.com/view/0127828848087f2a)
-  -Introduction to JAVA(https://certificate.codingninjas.com/view/0127828848087f2a)
+    -Infosys Certified Database and SQL Professional
+    -Infosys Certified Java SE8 Developer
+    -Data Structures in JAVA(https://certificate.codingninjas.com/view/0127828848087f2a)
+    -Introduction to JAVA(https://certificate.codingninjas.com/view/0127828848087f2a)
 skills:
   - name: 'C#'
     level: ''
