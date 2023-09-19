@@ -82,8 +82,19 @@ skills:
     keywords:
       - CI/CD
       - GitHub Actions
-      - AWS DevOps
       - Docker
+  - name: AWS
+    level: ''
+    keywords:
+      - IAM
+      - VPC
+      - EC2
+      - ELB
+      - RDS
+      - S3
+      - Route 53
+      - Lambda
+      - DynamoDB
   - name: Microservices
     level: ''
     keywords:
