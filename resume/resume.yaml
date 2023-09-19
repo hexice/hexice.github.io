@@ -6,7 +6,7 @@ basics:
   phone: "+91 9064123862"
   url: ''
   summary: |-
-    Motivated software developer with 1.5+ year of experience and a passion for driving results. Proven ability for problem solving and a commitment to continuous learning and growth.
+    Motivated software developer with 1.6+ year of experience and a passion for driving results. Proven ability for problem solving and a commitment to continuous learning and growth.
     Seeking opportunities to take on new challenges and make a meaningful impact.
   location:
     address: ''
@@ -37,8 +37,8 @@ work:
       Team management expertise, providing effective customer issue resolution.
     highlights:
       - Salesforce
-      - Google workspace
-      - Google admin console
+      - Google Workspace
+      - Google Admin Console
       - DNS
       - IMAP/POP and SMTP
 education:
@@ -82,7 +82,8 @@ skills:
     keywords:
       - CI/CD
       - GitHub Actions
-      - Azure DevOps
+      - AWS DevOps
+      - Docker
   - name: Microservices
     level: ''
     keywords:
